@@ -1,0 +1,7 @@
+#!C:\Users\SkatterBencher\AppData\Local\miniconda3\envs\aibench\python.exe
+
+import ai_benchmark
+benchmark = ai_benchmark.AIBenchmark()
+results = benchmark.run()
+
+
